@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 <!--
 **SamSkinner01/SamSkinner01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
