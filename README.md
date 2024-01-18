@@ -1,3 +1,5 @@
+# Hello!
+My name is Sam, a software engineer working mostly in the fields of web development and artificial intelligence!
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
